@@ -33,7 +33,7 @@ function Header() {
               <a href="mailto:cardanocomm@gmail.com" target="_blank" rel="noreferrer"></a>
             </div>
             <div className="guide">
-              <Link to="/guide" className="guide">
+              <Link to="/" className="guide">
                 <div className="iconGuide"></div>Guide
               </Link>
             </div>
@@ -50,7 +50,7 @@ function Header() {
                   <a href="mailto:cardanocomm@gmail.com" target="_blank" rel="noreferrer"></a>
                 </div>
                 <div className="guide">
-                  <Link to="/guide" className="guide">
+                  <Link to="/" className="guide">
                     <div className="iconGuide"></div>Guide
                   </Link>
                 </div>
