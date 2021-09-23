@@ -79,7 +79,10 @@ function Main() {
 
   return (
     //  {/* <p className="countDown">{`${d}Days ${h}:${m}:${s}`}</p> */}
+
     <div className="main">
+      {/* <DetailModal open={true} /> */}
+
       <div className="contentsWrap">
         <div className="mainContents">
           <div className="iconScroll" />
