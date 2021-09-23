@@ -99,7 +99,7 @@ function Main() {
             </div>
             <div className="mainInnerBottom">
               <div className="title">Comming Soon</div>
-              <div className="counter">
+              {/* <div className="counter">
                 <div>
                   <span className="days" id="day">
                     {d}
@@ -125,7 +125,7 @@ function Main() {
                   <div className="smallText">Seconds</div>
                 </div>
               </div>
-              <div className="text">September 11th 12PM (UTC)</div>
+              <div className="text">September 11th 12PM (UTC)</div> */}
             </div>
           </div>
         </div>
@@ -140,7 +140,7 @@ function Main() {
             </div>
             <div className="col2">
               <div className="text">
-                This project started with Korean Cardanians.
+                This project started with Cardanians form South Korea
                 <br />
                 This project, which started from Korea's representative POOL, is CNFT with the goal of donation.
                 <br />
@@ -172,15 +172,9 @@ function Main() {
             <div className="col2">
               <div className="text">
                 <div className="textBox">
-                  Our wallet address is
+                  Our address will be revealed later.
                   <br />
-                  · ㅇㅇㅇㅇㅇㅇ
-                  <br />
-                  · ㅇㅇㅇㅇㅇㅇ
-                  <br />
-                  · ㅇㅇㅇㅇㅇㅇ
-                  <br />
-                  Donations will be made to the public donation address ㅇㅇㅇㅇ.
+                  Donations will be made to the public donation address...
                   <br />
                   Check it out in Cardano Explorer.
                   <br />
@@ -204,8 +198,8 @@ function Main() {
             <div className="col4">
               <div className="collection">
                 <div className="collectionImg">
-                  <div className="soldOut"></div>
-                  <div className="closed" style={{ display: "block" }}></div>
+                  {/* <div className="soldOut"></div>
+                  <div className="closed" style={{ display: "block" }}></div> */}
                   <img src="/img/gold.png" alt="Gold" />
                 </div>
                 <div className="text bold">Gold</div>
@@ -214,8 +208,8 @@ function Main() {
             <div className="col4">
               <div className="collection">
                 <div className="collectionImg">
-                  <div className="soldOut" style={{ display: "block" }}></div>
-                  <div className="closed"></div>
+                  {/* <div className="soldOut" style={{ display: "block" }}></div>
+                  <div className="closed"></div> */}
                   <img src="/img/silver.png" alt="Silver" />
                 </div>
                 <div className="text bold">Silver</div>
